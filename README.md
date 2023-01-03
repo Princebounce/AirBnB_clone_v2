@@ -143,9 +143,9 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 
 ## Authors ##
 Repo forked from the V made by: 
-* justinmajetich Justin Majetich *
-* eNobreg Ezra Nobrega *
+* justinmajetich Justin Majetich
+* eNobreg Ezra Nobrega 
 
 V2 made b:
-* Precious Onyekachi Diala | dialpressy@gmail.com | 
+* Precious Onyekachi Diala | dialpressy@gmail.com | https://www.linkedin.com/in/precious-diala-1936609b/ 
 * Prince Ayomide | layomide81@gmail.com |
